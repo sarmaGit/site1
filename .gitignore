@@ -1,5 +1,5 @@
 .idea/
-.node_modules/
-.drivers/
-.tests_output/
-.chromedriver.log
+node_modules/
+drivers/
+tests_output/
+chromedriver.log
